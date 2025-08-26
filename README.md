@@ -17,7 +17,6 @@
 - [Collection](#collection)
 - [Responsible Use](#responsible-use)
 - [Experimental Result](#experimental-result)
-- [License](#license)
 - [Copyright](#copyright)
 
 ## <div align="center" id="usage&download">🖥️Usage & Download</div> <!-- omit in toc -->
@@ -66,10 +65,6 @@ EduMath-24: This dataset focuses on mathematical teaching resources for primary 
 ![results](./Images/results.png)
 
 We evaluated PERC against several strong baseline models on EduMix-24 and EduMath-24 using standard metrics, including Accuracy, F1 Score, and Area Under the ROC Curve (AUC). The best-performing results for each task are highlighted in bold. These baselines include both traditional text classifiers (e.g., BERT, RoBERTa) and specialized long-text models (e.g., BigBird, mLongT5), allowing us to comprehensively assess PERC’s effectiveness in handling long-form  educational content.
-
-## <div align="center" id="license">📄License</div>
-
-EduMix-24 and EduMath-24 Datasets should be used and distributed under [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
 
 ## <div align="center" id="citation">:bookmark_tabs:Citation</div> <!-- omit in toc -->
 
